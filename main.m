@@ -15,3 +15,8 @@ No_of_iterations =20;                                                         % 
                      inf inf inf 1;
                      1 1 inf inf;
                      inf inf 1 inf]; 
+
+optical_network =[inf 1 inf inf 1;
+                     inf inf inf 1 1;
+                     1 1 inf inf 1;
+                     inf inf 1 inf 1]; 
